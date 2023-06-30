@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-redux-toolkit-cars/static/css/main.2a2e4678.css",
+    "main.js": "/react-redux-toolkit-cars/static/js/main.7bbbe8c1.js",
+    "index.html": "/react-redux-toolkit-cars/index.html",
+    "main.2a2e4678.css.map": "/react-redux-toolkit-cars/static/css/main.2a2e4678.css.map",
+    "main.7bbbe8c1.js.map": "/react-redux-toolkit-cars/static/js/main.7bbbe8c1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a2e4678.css",
+    "static/js/main.7bbbe8c1.js"
+  ]
+}
